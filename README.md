@@ -116,6 +116,16 @@ Project link: https://github.com/mtavassoli/GNN-FC
 
 If you use this repository or find our research helpful, please cite:
 
+@misc{kejani2025modelagnosticfairnessregularizationgnns,
+      title={Model-Agnostic Fairness Regularization for GNNs with Incomplete Sensitive Information}, 
+      author={Mahdi Tavassoli Kejani and Fadi Dornaika and Jean-Michel Loubes},
+      year={2025},
+      eprint={2512.03074},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2512.03074}, 
+}
+
 ---
 
 Thank you for your interest in our project!
